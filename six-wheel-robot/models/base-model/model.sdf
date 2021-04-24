@@ -3,10 +3,13 @@
   <model name="six_wheel_robot">
     <static>false</static>
 
+    <plugin name="robot_control" filename="libsix_wheel_robot_drivetrain.so"/>
+
     <link name='chassis'>
       <pose>0 0 .05 0 0 0</pose>
 
       <inertial>
+        <mass>2.26</mass>
         <pose>-0.05 0 0 0 0 0</pose>
       </inertial>
 

@@ -89,6 +89,7 @@
     </spherical_coordinates>
     <model name='six_wheel_robot'>
       <static>0</static>
+      <plugin name="robot_control" filename="libsix_wheel_robot_drivetrain.so"/>
       <link name='chassis'>
         <pose>0 0 0.05 0 -0 0</pose>
         <inertial>

@@ -13,6 +13,14 @@ Currently there is one robot available for simulation
 
 More robots will be added in the future.
 
+
+## Installation
+1. You may need to install the following dependencies
+```
+sudo apt-get install -y libignition-rendering3-dev libignition-common3-graphics-dev 
+```
+
+
 ## Compatibility
 
 This has only been tested in Gazebo 11, but probably works in earlier versions.

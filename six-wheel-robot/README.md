@@ -16,3 +16,10 @@ There are example worlds in the worlds directory. You can run a particular world
 ```
 gazebo <world-file>.sdf
 ```
+
+## Tips
+Run 
+```
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:$(pwd)
+```
+when compiling a plugin from within its build directory
