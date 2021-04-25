@@ -1,4 +1,0 @@
-/home/justin/kleiber-robot-sim/six-wheel-robot/plugins/drivetrain/build/CMakeFiles/rebuild_cache.dir
-/home/justin/kleiber-robot-sim/six-wheel-robot/plugins/drivetrain/build/CMakeFiles/drive_example.dir
-/home/justin/kleiber-robot-sim/six-wheel-robot/plugins/drivetrain/build/CMakeFiles/edit_cache.dir
-/home/justin/kleiber-robot-sim/six-wheel-robot/plugins/drivetrain/build/CMakeFiles/six_wheel_robot_drivetrain.dir
