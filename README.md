@@ -1,9 +1,9 @@
 
-# Justin Kleiber Robotics Simulator
+# Justin Kleiber Gazebo Plugins
 
-I'm Justin Kleiber and this is my robotics simulator. I work here with my old man and my son, Big Bot. Everything in here has a story, but no price. One thing I've learned over the years - you never know when a robot is going to work. Unless you simulate it that is!
+I'm Justin Kleiber and this is my gazebo plugin repo. I work here with my old man and my son, Big Bot. Everything in here has a story, but no price. One thing I've learned over the years - you never know when a robot is going to work. Unless you simulate it that is!
 
-This simulator repository seeks to maintain a set of models, plugins, and worlds that I use in my robotics projects.
+This simulator repository seeks to maintain a set of models, plugins, and worlds that I use in my robotics projects that use the Gazebo simulator.
 
 ## Available Robots
 
